@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"poop3.java","c":"POOP3Java","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"poop3.java","c":"POOP3Java","l":"POOP3Java()","u":"%3Cinit%3E()"}];updateSearchResults();
